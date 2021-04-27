@@ -309,6 +309,17 @@ img {
   font-size: 40px;
 }
 
+.darker {
+  -webkit-transition: 0.25s all;
+  transition: 0.25s all;
+}
+.darker:hover{
+  opacity: 0.6;
+   
+  -webkit-transition: 0.25s all;
+  transition: 0.25s all;
+}
+
 .footer {
   background: #758b98;
   margin-top: -2px;
